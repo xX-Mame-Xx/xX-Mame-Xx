@@ -7,6 +7,6 @@ Scratch
 <strong><a href="https://scratch.mit.edu/users/xX-_-Mame-_-Xx/">Mame</a></strong><br></br>
 僕のホームページ
 <strong><a href="https://xx-mame-xx.github.io/">-Mame-</a></strong>
-<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xX-Mame-Xx&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xX-Mame-Xx&show_icons=true&theme=radical)
