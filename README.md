@@ -1,10 +1,10 @@
 <br>
-<h1>Mame</h1>
+<h1>-Mame-</h1>
 <br>
 Youtube
-<strong><a href="https://www.youtube.com/channel/UCMavyFcgUqIbaXa59P1BrdA">Mame</a></strong><br></br>
+<strong><a href="https://www.youtube.com/channel/UCMavyFcgUqIbaXa59P1BrdA">-Mame-</a></strong><br></br>
 Scratch
-<strong><a href="https://scratch.mit.edu/users/xX-_-Mame-_-Xx/">Mame</a></strong><br></br>
+<strong><a href="https://scratch.mit.edu/users/xX-_-Mame-_-Xx/">-Mame-</a></strong><br></br>
 僕のホームページ
 <strong><a href="https://xx-mame-xx.github.io/">-Mame-</a></strong>
 
