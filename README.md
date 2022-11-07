@@ -6,7 +6,7 @@ Youtube
 Scratch
 <strong><a href="https://scratch.mit.edu/users/xX-_-Mame-_-Xx/">-Mame-</a></strong><br></br>
 僕のホームページ
-<strong><a href="https://xx-mame-xx.github.io/">-Mame-</a></strong>
+<strong><a href="https://xx-mame-xx.github.io/">-Mame-</a></strong><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xX-Mame-Xx&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
