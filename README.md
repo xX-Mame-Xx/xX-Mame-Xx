@@ -12,4 +12,4 @@ Scratch
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xX-Mame-Xx)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xX-Mame-Xx&show_icons=true&theme=cobalt)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xX-MameXx&show_icons=true&theme=transparent)
