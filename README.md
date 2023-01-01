@@ -10,6 +10,6 @@ Scratch
 <strong><a href="https://xx-mame-xx.github.io/">-Mame-</a></strong>
 <br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xX-Mame-Xx&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xX-Mame-Xx)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xX-Mame-Xx&show_icons=true&theme=cobalt)
